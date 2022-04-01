@@ -35,5 +35,6 @@ Project is: _complete_
 
 
 ## Contact
+twitter [d2ndjim](https://twitter.com/d2ndjim_)
 Created by [d2ndjim](https://jimohridwanlekan@gmail.com) - feel free to contact me!
 
